@@ -321,7 +321,7 @@ For support, email eos@etech.com or open an issue on GitHub.
 
 ---
 
-Made with ❤️ by Your Name
+Made with ❤️ by eOS
 
 ### Windows
 
@@ -393,7 +393,7 @@ Lütfen bu sorunları bildirin. **Sizin geri bildirimleri beni geliştirmeme yar
 Bu projeyi tercih ettiğiniz ve destek verdiğiniz için çok teşekkürler. Continuous improvement ve feedback-driven development ile daha iyi bir ürün sunmaya çalışacağız.
 
 **GitHub**: [eymenomersenyigit-lang/etech-reading](https://github.com/eymenomersenyigit-lang/etech-reading)  
-**Email**: eOS@eTech.com
+**Email**: eOS@eTech.org *(note: domain not acquired yet, use eymenomersenyigit@gmail.com)*
 
 ---
 
