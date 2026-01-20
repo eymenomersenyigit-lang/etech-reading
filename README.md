@@ -39,7 +39,7 @@ pip install etech-reading
 ### From source
 
 ```bash
-git clone https://github.com/yourusername/etech-reading.git
+git clone https://github.com/eymenomersenyigit-lang/etech-reading.git
 cd etech-reading
 pip install -e .
 ```
@@ -373,3 +373,28 @@ MIT License - Detaylar için LICENSE dosyasına bakın.
 ## İletişim
 
 Sorularınız ve önerileriniz için lütfen issue açınız.
+
+---
+
+## 📝 Not: İlk Yayınlanan Proje
+
+Bu proje, **eOS** tarafından ilk olarak yayınlanan bir projedir. Yolculuk boyunca bazı hatalar ve eksiklikler yaşanmış olabilir. 
+
+### Özür Diliyorum 🙏
+
+- Eğer dokumentasyonda veya kodda hatalar buldunuz
+- Bazı özellikler beklediğiniz gibi çalışmadıysa
+- Kurulum veya kullanımda sorun yaşadıysanız
+
+Lütfen bu sorunları bildirin. **Sizin geri bildirimleri beni geliştirmeme yardımcı oluyor!**
+
+### Teşekkürler ❤️
+
+Bu projeyi tercih ettiğiniz ve destek verdiğiniz için çok teşekkürler. Continuous improvement ve feedback-driven development ile daha iyi bir ürün sunmaya çalışacağız.
+
+**GitHub**: [eymenomersenyigit-lang/etech-reading](https://github.com/eymenomersenyigit-lang/etech-reading)  
+**Email**: eOS@eTech.com
+
+---
+
+*Version 1.0.1 - Updated: January 20, 2026*
